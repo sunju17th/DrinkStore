@@ -63,8 +63,8 @@ Dự án tập trung vào:
 ## 4. Hướng dẫn cài đặt (Localhost)
 ### **Bước 1: Clone dự án**
 ```bash
-git clone https://github.com/sunju17th/-02-D04-SEO
-cd '-02-D04-SEO'
+git clone https://github.com/sunju17th/DrinkStore
+cd 'DrinkStore'
 ```
 
 ### **Bước 2: Cài đặt thư viện**
